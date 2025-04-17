@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\poornima kumar\\hexaware training\\coding challenges-hexa\\coding challenge-2\\hospitalmanagementsystem\\hospitalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\poornima kumar\\hexaware training\\coding challenges-hexa\\coding challenge-2\\hospitalmanagementsystem\\hospitalmanagementsystem\\dao\\ihospitalserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\dao\\ihospitalserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\poornima kumar\\hexaware training\\coding challenges-hexa\\coding challenge-2\\hospitalmanagementsystem\\hospitalmanagementsystem\\util\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\util\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\poornima kumar\\hexaware training\\coding challenges-hexa\\coding challenge-2\\hospitalmanagementsystem\\hospitalmanagementsystem\\dao\\ihospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\dao\\ihospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\poornima kumar\\hexaware training\\coding challenges-hexa\\coding challenge-2\\hospitalmanagementsystem\\hospitalmanagementsystem\\exception\\patientnumbernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\exception\\patientnumbernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\poornima kumar\\hexaware training\\coding challenges-hexa\\coding challenge-2\\hospitalmanagementsystem\\hospitalmanagementsystem\\entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\poornima kumar\\hexaware training\\coding challenges-hexa\\coding challenge-2\\hospitalmanagementsystem\\hospitalmanagementsystem\\entity\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\entity\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\poornima kumar\\hexaware training\\coding challenges-hexa\\coding challenge-2\\hospitalmanagementsystem\\hospitalmanagementsystem\\entity\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\entity\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\poornima kumar\\hexaware training\\coding challenges-hexa\\coding challenge-2\\hospitalmanagementsystem\\hospitalmanagementsystem\\hospitalmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F9E20F7-1E41-4ABD-9B54-18ED9677D121}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\hospitalmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 293,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHospitalServiceImpl.cs",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\dao\\IHospitalServiceImpl.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\dao\\IHospitalServiceImpl.cs",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\dao\\IHospitalServiceImpl.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\dao\\IHospitalServiceImpl.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAiwI0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:03:52.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHospitalService.cs",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\dao\\IHospitalService.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\dao\\IHospitalService.cs",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\dao\\IHospitalService.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\dao\\IHospitalService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:03:38.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Program.cs",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\Program.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Program.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAmwBwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:37:26.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBConnUtil.cs",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\util\\DBConnUtil.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\util\\DBConnUtil.cs",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\util\\DBConnUtil.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\util\\DBConnUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:38:05.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientNumberNotFoundException.cs",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\exception\\PatientNumberNotFoundException.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\exception\\PatientNumberNotFoundException.cs",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\exception\\PatientNumberNotFoundException.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\exception\\PatientNumberNotFoundException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:40:37.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\entity\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\entity\\Patient.cs",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\entity\\Patient.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\entity\\Patient.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:51:02.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\entity\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\entity\\Doctor.cs",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\entity\\Doctor.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\entity\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:51:11.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\entity\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\entity\\Appointment.cs",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\entity\\Appointment.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\entity\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:51:23.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HospitalManagementSystem",
+              "DocumentMoniker": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\HospitalManagementSystem.csproj",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\HospitalManagementSystem.csproj",
+              "ToolTip": "D:\\POORNIMA KUMAR\\Hexaware Training\\Coding Challenges-Hexa\\coding Challenge-2\\HospitalManagementSystem\\HospitalManagementSystem\\HospitalManagementSystem.csproj",
+              "RelativeToolTip": "HospitalManagementSystem\\HospitalManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T05:01:21.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 107,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
